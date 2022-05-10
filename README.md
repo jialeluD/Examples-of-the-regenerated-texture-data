@@ -1,0 +1,1 @@
+# Examples-of-the-regenerated-texture-data
